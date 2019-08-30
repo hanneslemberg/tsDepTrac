@@ -1,0 +1,18 @@
+{
+  "name": "tsdeptrack",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/minimatch": "^3.0.3",
+    "@types/node": "^12.7.2",
+    "fp-ts": "^2.0.5",
+    "io-ts": "^2.0.1",
+    "minimatch": "^3.0.4",
+    "prettier": "^1.18.2",
+    "tslint": "^5.19.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "typescript": "3.4.5"
+  }
+}
